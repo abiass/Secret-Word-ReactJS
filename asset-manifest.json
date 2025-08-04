@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Secret-Word-ReactJS/static/css/main.f32d3fb3.css",
+    "main.js": "/Secret-Word-ReactJS/static/js/main.1eb87d48.js",
+    "static/js/453.cb55a0af.chunk.js": "/Secret-Word-ReactJS/static/js/453.cb55a0af.chunk.js",
+    "index.html": "/Secret-Word-ReactJS/index.html",
+    "main.f32d3fb3.css.map": "/Secret-Word-ReactJS/static/css/main.f32d3fb3.css.map",
+    "main.1eb87d48.js.map": "/Secret-Word-ReactJS/static/js/main.1eb87d48.js.map",
+    "453.cb55a0af.chunk.js.map": "/Secret-Word-ReactJS/static/js/453.cb55a0af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f32d3fb3.css",
+    "static/js/main.1eb87d48.js"
+  ]
+}
